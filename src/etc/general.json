@@ -1,0 +1,14 @@
+{
+  "name": "template",
+
+  "static": {
+    "path": "/public"
+  },
+
+  "engine": {
+    "views": {
+      "path": "/app",
+      "engine": "pug"
+    }
+  }
+}
